@@ -20,7 +20,8 @@ My favorite Linux command (~~DON'T TRY IT~~):
 rm -rf /
 ```
 Hobbies:
-- Watching and Playing Soccer
+- Watching and playing Soccer
+  - Analogous to Software Engineering in so many ways! 
 - Building UAVs
 - Coming up with business ideas and implementing them
   - Education side business
