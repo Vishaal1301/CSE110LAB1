@@ -36,7 +36,7 @@ Hobbies:
 2. Resume: [Vishaal Resume Fall 2020 Angel.pdf](https://github.com/Vishaal1301/CSE110LAB1/files/5773637/Vishaal.Resume.Fall.2020.Angel.pdf)
 
 ### Future Goals
-- [ ] Get an internship
+- [x] Get an internship
 - [ ] Get a job in the industry
 - [ ] Start a business
 - [ ] Get an MBA
