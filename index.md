@@ -1,5 +1,5 @@
 ## Vishaal Vasu 
-###### 2nd Year Computer Engineering at UC San Diego
+###### 2nd Year Computer Engineer at UC San Diego
 
 ### Summary
 As a self-directed, hardworking Computer Engineering student, I have collaboratively completed advanced _projects_ involving data structures, _tutored_ undergraduates on _electronics_, and applied my knowledge in real-life scenarios through _clubs_ and _business ventures_.
