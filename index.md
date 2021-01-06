@@ -30,7 +30,7 @@ Hobbies:
 
 ### Business and Resume 
 
-1. Check out my company's website: [TutorBrokers Website](https://sites.google.com/view/tutorbrokers).
+1. Check out my company's website: [TutorBrokers Website](https://sites.google.com/view/tutorbrokers)
 2. Check out my company's Facebook: [TutorBrokers Facebook](https://www.facebook.com/TutorBrokers-107046161147295/?modal=admin_todo_tour)
 3. Check out my company's Instagram: [TutorBrokers Instagram](https://www.instagram.com/tutorbrokers/)
 2. Resume: [Vishaal Resume Fall 2020 Angel.pdf](https://github.com/Vishaal1301/CSE110LAB1/files/5773637/Vishaal.Resume.Fall.2020.Angel.pdf)
